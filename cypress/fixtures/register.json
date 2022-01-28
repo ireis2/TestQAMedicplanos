@@ -1,0 +1,21 @@
+
+
+{
+
+    "data":{
+    "name": "Esther Elisa Castro",
+    "phone": "(11) 2780-6688",
+    "cpf":"071.822.518-09",
+    "rg":"89547136542",
+    "email":"henrycaiojoao_@agltda.com.br",
+    "birth":"10/03/1998",
+    "address": {
+        "cep":"03978-260",
+        "street":"Amazonas",
+        "number":"65",
+        "complement":"NA",
+        "city":"Sãp Paulo",
+        "districty":"Morumbi"
+}
+    }
+}
